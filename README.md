@@ -5,3 +5,4 @@ Requirements for this project included novelty, extensive lines of code (around 
 
 ## KPOP Search Engine
 To emphasize the skills I learned with Python and Jupyter Notebook I decided to create a program on a subject I was interested in: Music. To add more novelty I narrowed my focus to Korean Pop and Korean Pop fans as the niche and target of this project. 
+<img src="gifs/0.gif?raw=true"/>
